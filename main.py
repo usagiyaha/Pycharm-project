@@ -33,6 +33,8 @@
 #     pca = PCA(n_components=2).fit_transform(x)
 #     plt.scatter(pca[:,0], pca[:,1])
 
+
 values = [1,2,7,5,6]
 values_sorted = sorted(values)
 print(values_sorted)
+#new line
